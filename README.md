@@ -1,65 +1,69 @@
 <h1 align="center">Hi 👋, I'm Jeffery Mutuku Ng'ethe</h1>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tremeryt&theme=flat&column=7" alt="tremeryt trophies" />
+</p>
+
 <h3 align="center">
-I’m a passionate software developer and problem-solver with experience in Python, Java, C, Dart, and web development. I enjoy building clean, efficient, and scalable solutions, and I have a strong interest in full-stack development, cloud computing, and software engineering best practices. Over time, I’ve worked on a variety of projects—from inventory management systems, web applications, and mobile applications—allowing me to explore both back-end logic and interactive front-end design. I’m constantly learning and experimenting with new technologies, frameworks, and tools to enhance my skill set. I’m also interested in open-source collaboration, sharing knowledge, and contributing to projects that solve real-world problems. Outside of coding, I enjoy researching emerging trends in software development and applying innovative approaches to my work.
+  Full-Stack Developer | Problem Solver | Tech Enthusiast
 </h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tremeryt" alt="tremeryt" />
-  </a>
+I’m a passionate software developer experienced in Python, Java, C, and Dart. I focus on building clean, scalable solutions, with a deep interest in cloud computing and full-stack architecture.
 </p>
 
 ---
 
-### 🔭 Current Work
-- I’m currently working on [Nirvana Inventory Management System](https://github.com/TremerYT/inventory_management_system_frontend.git)
+### 🛠 Tech Stack
 
-### 🌱 Currently Learning
-- Java (Spring Boot), TypeScript, Python, Go, Elixir, Dart, Flutter, Kotlin, etc.
+#### 🚀 Languages & Frameworks
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+</p>
 
-### 💬 Ask me about
-- React, Python, Java, Flutter, JavaScript
-
-### 📫 How to reach me
-- jefferymutuku283@gmail.com
-
-### ⚡ Fun fact
-- I really love music
-
----
-
-### 🔗 Connect with me
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/jefferymutuku/)
-[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/u/tremeryt/)
-
----
-
-### 🛠 Languages and Tools
-[![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)](https://www.cprogramming.com/)
-[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)
-[![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg)](https://dart.dev)
-[![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)](https://flutter.dev)
-[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
-[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)
-[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com)
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)
-[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/)
-[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org)
-[![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)](https://www.postgresql.org/)
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
-[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/)
-[![Spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg)](https://spring.io/)
-[![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)](https://tailwindcss.com/)
+#### 🧰 Databases & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tremeryt&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=tremeryt&show_icons=true&locale=en" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=tremeryt" alt="Streak Stats" /></td>
-  </tr>
-</table>
+### 🔭 Projects & Learning
+- 🔭 **Current Project:** [Nirvana Inventory Management System](https://github.com/TremerYT/inventory_management_system_frontend.git)
+- 🌱 **Learning:** Currently diving deeper into **Go**, **Elixir**, and **Kotlin**.
+- 💬 **Ask me about:** React, Python, Java, and Flutter.
+
+---
+
+### 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tremeryt&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tremeryt&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tremeryt&theme=radical" alt="Streak Stats" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/jefferymutuku/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/tremeryt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+</p>
+
+<p align="right">
+  <i>"I really love music" 🎵</i>
+</p>
