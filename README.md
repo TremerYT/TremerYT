@@ -8,7 +8,7 @@
   Full-Stack Developer | Problem Solver | Tech Enthusiast
 </h3>
 
-<p align="center">
+<p align="left">
 I’m a passionate software developer experienced in Python, Java, C, and Dart. I focus on building clean, scalable solutions, with a deep interest in cloud computing and full-stack architecture.
 </p>
 
@@ -26,10 +26,6 @@ I’m a passionate software developer experienced in Python, Java, C, and Dart. 
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-</p>
-
-#### 🧰 Databases & Tools
-<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
