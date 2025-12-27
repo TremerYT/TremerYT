@@ -69,13 +69,6 @@ A mobile application focused on simplicity and productivity, allowing users to c
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tremeryt)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tremeryt&layout=compact)
----
-
 ## 🤝 Connect With Me
 
 - 📧 Email: [jefferymutuku283@gmail.com](mailto:jefferymutuku283@gmail.com)
