@@ -72,14 +72,12 @@ A mobile application focused on simplicity and productivity, allowing users to c
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="320" src="https://github-readme-stats.vercel.app/api?username=tremeryt&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img width="320" src="https://github-readme-streak-stats.herokuapp.com/?user=tremeryt&hide_border=true&theme=tokyonight" />
+  <img width="360" src="https://github-readme-stats.vercel.app/api?username=tremeryt&show_icons=true&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tremeryt&layout=compact&hide_border=true&theme=tokyonight" />
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tremeryt&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🤝 Connect With Me
