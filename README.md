@@ -71,13 +71,9 @@ A mobile application focused on simplicity and productivity, allowing users to c
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="360" src="https://github-readme-stats.vercel.app/api?username=tremeryt&show_icons=true&hide_border=true&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tremeryt)
 
-<p align="center">
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tremeryt&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tremeryt&layout=compact)
 ---
 
 ## 🤝 Connect With Me
