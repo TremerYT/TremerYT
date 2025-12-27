@@ -1,65 +1,94 @@
-<h1 align="center">Hi 👋, I'm Jeffery Mutuku Ng'ethe</h1>
+# Hello, I'm **Jeffery Mutuku** 👋
+
+📍 **Location:** Nairobi, Kenya  
+📧 **Email:** jefferymutuku283@gmail.com  
+
+**Software Developer | Backend • Mobile • Web**
+
+[![Profile Views](https://u8views.com/api/v1/github/profiles/136019231/views/day-week-month-total-count.svg)](https://u8views.com/github/TremerYT)
+
+---
+
+## 🐼 About Me
+
+I’m a passionate software developer and problem-solver with experience in **Python, Java, C, Dart**, and modern web technologies. I enjoy building clean, efficient, and scalable solutions, with a strong interest in **full-stack development, cloud computing, and software engineering best practices**.
+
+I’ve worked on a variety of projects including **inventory management systems, web applications, and mobile applications**, allowing me to explore both robust back-end logic and interactive front-end design. I’m constantly learning and experimenting with new tools and frameworks to sharpen my skills.
+
+I enjoy **open-source collaboration**, sharing knowledge, and building solutions that solve real-world problems.
+
+- 🔭 Currently working on **Nirvana Inventory Management System**
+- 🌱 Currently learning **Elixir, Dart, PHP, Go**
+- 💬 Ask me about **Backend, Web, and Mobile Development**
+- 📫 Reach me at **jefferymutuku283@gmail.com**
+
+---
+
+## 🚀 Tech Stack
+
+### 🧠 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+</p>
+
+### 🛠 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ANT--D-000000?style=flat-square"/>
+</p>
+
+---
+
+## 🚧 Projects
+
+### 🔹 [Nirvana Inventory Management System](https://github.com/TremerYT/inventory_management_system_frontend.git)
+A **multi-tenant inventory management system** that enables multiple businesses to create independent accounts and manage their inventory on a shared platform. Businesses can track products, monitor stock levels, manage orders, and analyze sales securely and efficiently.
+
+### 🔹 [Nirvana Mobile App](https://github.com/TremerYT/ecommerce_flutter.git)
+A mobile application focused on simplicity and productivity, allowing users to create, manage, and track daily tasks. Built to explore modern mobile development patterns using Flutter.
+
+---
+
+## 🏆 Achievements
+
+<p>
+  <img src="https://img.shields.io/badge/ALX-Software_Engineering_Graduate-blue?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tremeryt&theme=flat&column=7" alt="tremeryt trophies" />
-</p>
-
-<h3 align="center">
-  Full-Stack Developer | Problem Solver | Tech Enthusiast
-</h3>
-
-<p align="left">
-I’m a passionate software developer experienced in Python, Java, C, and Dart. I focus on building clean, scalable solutions, with a deep interest in cloud computing and full-stack architecture.
-</p>
-
----
-
-### 🛠 Tech Stack
-
-#### 🚀 Languages & Frameworks
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
-
----
-
-### 🔭 Projects & Learning
-- 🔭 **Current Project:** [Nirvana Inventory Management System](https://github.com/TremerYT/inventory_management_system_frontend.git)
-- 🌱 **Learning:** Currently diving deeper into **Go**, **Elixir**, and **Kotlin**.
-- 💬 **Ask me about:** React, Python, Java, and Flutter.
-
----
-
-### 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tremeryt&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tremeryt&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="170" />
+  <img width="320" src="https://github-readme-stats.vercel.app/api?username=tremeryt&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img width="320" src="https://github-readme-streak-stats.herokuapp.com/?user=tremeryt&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tremeryt&theme=radical" alt="Streak Stats" />
+  <img width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tremeryt&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔗 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/jefferymutuku/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/tremeryt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
+## 🤝 Connect With Me
 
-<p align="right">
-  <i>"I really love music" 🎵</i>
-</p>
+- 📧 Email: [jefferymutuku283@gmail.com](mailto:jefferymutuku283@gmail.com)
+
+---
+
+## 🙏 Contributions & Feedback
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to open an issue or submit a pull request if you’d like to collaborate or suggest improvements.
